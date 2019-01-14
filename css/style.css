@@ -14,9 +14,18 @@ body{
 
 /*Home*/
 
+.homebg{
+    background-image: url(../img/home.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 625px;
+}
+
 .home{
     color: #ddd9d6;
-    margin-top: 20%;
+    margin-top: 10%;
     padding: 20%;
     text-align: center;
 
@@ -24,9 +33,9 @@ body{
 }
 
 .home h3{
-    background-color:#c7bdb1;
-    padding: 20px;
-    text-align: left;
+    border: 2px solid #c7bdb1;
+    padding: 10px;
+    text-align: center;
 }
 
 .blockquote{
@@ -99,6 +108,16 @@ body{
 
 /*Technical Skills*/
 
+.toolsbg{
+    background-image: url(../img/home.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 625px;
+    color: white;
+}
+
 .techskills{
     text-align: center;
     padding: 15px;
@@ -107,11 +126,13 @@ body{
 
 .tools{
     text-align: left;
+    
 }
 
 .tools img{
     text-align: center;
     margin: 25px;
+    background-color: rgb(209, 209, 209);
 }
 
 /*Methods*/
