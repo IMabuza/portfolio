@@ -115,8 +115,9 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 625px;
+    height: 350px;;
     color: white;
+    
 }
 
 .techskills{
@@ -130,10 +131,10 @@ body{
     
 }
 
-.tools img{
-    text-align: center;
-    margin: 25px;
-    background-color: rgb(209, 209, 209);
+.tools p{
+    display: inline;
+    padding: 5px;
+    margin: 2px;
 }
 
 /*Methods*/
