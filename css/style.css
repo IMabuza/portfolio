@@ -162,6 +162,7 @@ body{
     background-size: cover;
     color:white;
     text-align: center;
+    padding: 15px;
 }
 
 .project{
@@ -177,23 +178,22 @@ body{
     margin: 10px;
 }
 
-.pro-tools{
-    display: inline;
-}
-
 .title{
    font-size: 15px; 
 }
 
-
-footer{
-    text-align: center;
-    color: black;
+.footer{
     background-color: #ddd9d6;
-    list-style-type: none;
+    text-align: center;
+    padding: 5px 0 5px 0;
 }
 
-footer a{
-    text-decoration: none;
+.socials{
+    display: inline;
+}
+
+.footer li a{
+
+    color: black;
 }
 
