@@ -198,3 +198,14 @@ body{
     color: black;
 }
 
+.project-img{
+    text-align: center;
+    margin: 70px 10px 0 10px;
+    
+}
+
+.project-desc{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
